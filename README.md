@@ -1,4 +1,11 @@
-## Hi there 👋
+<p align="center" width="300">
+   <h3 align="center">¡Buenas! Soy Joan Serra 👋</h3>
+</p>
+
+
+## Puedes encontrarme en:
+- [Mi portafolio](https://serrajoan.com)
+- [Linkedin](https://www.linkedin.com/in/serrajoan/)
 
 <!--
 **serra-joan/serra-joan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
