@@ -4,7 +4,7 @@
 
 
 ## Puedes encontrarme en:
-- [Mi portafolio](https://portfolio.serrajoan.com/)
+- [Mi portafolio](https://serrajoan.com/)
 - [Linkedin](https://www.linkedin.com/in/serrajoan/)
 
 <!--
